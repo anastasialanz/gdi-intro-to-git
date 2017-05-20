@@ -1,20 +1,16 @@
-> Please read our slide creation guidelines in [the wiki](https://github.com/girldevelopit/gdi-slides-template/wiki). Then, delete this banner and add the specifics about your class below.
-
-# Add Your Course Title Here
+# Intro to Git and Github
 
 Slides and materials are hosted at [http://github.io/your_username_here/your_repository_name_here](http://github.io/your_username_here/your_repository_name_here).
 
 ## Course description
 
-Use this space for a short description of your course. We recommend using the description from your meetup event.
+Git is one of the most popular version control systems for tracking changes and it helps developers work together on the same project. This class will go over version control and why it's important to use in a project. You will learn basic and advanced Git commands and see an overview of Github.
 
-**Cost:** 
+**Cost: $40**
 
-**Dates:** 
+**Dates: May 20, 2017**
 
-**Location:** 
-
-A limited number of scholarships are available for those with a financial hardship. To apply, contact us at...
+**Location: Academy PGH**
 
 
 ### Prerequisites:
@@ -38,12 +34,12 @@ You should have:
 
  - Your laptop (Mac, PC, or Linux are all okay).
  - A modern web browser - either Chrome or Firefox with Firebug installed.
- - A text editor. We recommend Sublime Text 2 (free; available for Mac, PC, and Linux).
+ - A text editor. Atom, Visual Studio Code, Sublime Text 3 (free; available for Mac, PC, and Linux).
 
 
 ### Topics covered:
 
- - The topics you plan to cover
- - Written in list form
- - Here's another one
-
+ - How Version Control Works
+ - How to use Github
+ - How to work with other developers on a project
+ - How to use Git commands
